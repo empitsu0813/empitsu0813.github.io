@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: えんぴつのメモ
+description: 気の向くままに
+author: empitsu0813
+github: https://github.com/empitsu0813
+about: お仕事でVue.jsやってる人
+disqus_shortname: empitsumemo
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -20,12 +20,8 @@ social:
       link: "#"
     - icon: fa-twitter
       link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/empitsu0813"
 
 share:
   twitter_username: github.io
@@ -39,7 +35,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://empitsu0813.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
